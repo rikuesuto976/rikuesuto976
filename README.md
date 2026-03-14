@@ -1,19 +1,25 @@
 
 ## 🌐 Socials:
 <p align="left">
+
 <a href="https://instagram.com/anurodh.k52">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="30" width="30"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="35"/>
 </a>
+
 <a href="https://www.linkedin.com/in/anurodh-kanth-18152132a/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="30" width="30"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
 </a>
+
 <a href="https://pinterest.com/Rikuesuto">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pinterest.svg" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/pinterest/E60023" height="35"/>
 </a>
+
 <a href="mailto:anurodhkanth976@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="30" width="30"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="35"/>
 </a>
+
 </p>
+
 
 
 # 💻 Tech Stack:
